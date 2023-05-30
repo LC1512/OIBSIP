@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Montserrat";
+    line-height: 1.5;
+}
+
+.intro{    
+    padding: 3% 1%;
+    text-align: center;
+    background-color: rgb(202, 200, 178);
+}
+.heading-1{
+    font-weight: 900;
+}
+.heading-4{
+    font-weight: 300;
+    padding-bottom: 30px;
+}
+
+.main-page{
+    background-color: rgb(72, 28, 129);
+    padding: 7% 15%;
+    color:black;
+    border-radius: 15px;
+}
+.col-1{
+    position: relative;
+    right: 13%;
+}
+.main-content{
+    font-family: "BIZ UDMincho";
+    font-weight: 500    ;
+    text-align: left;
+    font-size: 1.75rem;
+    margin: 55px 17px;
+}
+.image{
+    margin-bottom: 15px;
+}
+.img-content{
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+
+.content{
+    margin: 5% 4%;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+blockquote {
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: justify;
+    border-left: 5px solid rgb(11, 9, 11);
+    box-shadow: 5px 3px 10px rgb(87, 40, 68);
+    }
